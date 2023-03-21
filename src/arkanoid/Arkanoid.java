@@ -24,6 +24,7 @@ public class Arkanoid extends JFrame implements KeyListener {
     private static final long serialVersionUID = 1L;
 
     /* CONSTANTS */
+	/* Añado esta chorradilla pra probar github*/
 
     public static final int SCREEN_WIDTH = 1050; // Cambiado tamaño de pantalla ancho y alto
     public static final int SCREEN_HEIGHT = 700;
